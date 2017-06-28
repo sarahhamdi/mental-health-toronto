@@ -50,7 +50,7 @@ Dr. Shailla Vaidya is a medical doctor of colour (can prescribe meds) and also p
 
 [Online](http://www.drvaidya.ca/#!about-my-practice/coyx) | Free, with referral from your doc.
 
-### Dr. Erin Mcdonough:
+### Dr. Erin Mcdonough
 
 Dr Erin Mcdonough is a psychiatrist that also does psychotherapy, with a focus on youth. This means OHIP will cover her services, so she is free with a referral. She mostly does on talk therapy, and will ocassionally mention meds if she thinks you need it.
 
