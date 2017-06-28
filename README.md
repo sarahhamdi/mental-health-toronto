@@ -69,7 +69,7 @@ CHCs have very affordable and population-specific therapy services but they also
 - [Women's Health in Women's Hands](http://www.whiwh.com/programs_and_services/) - Free, but only take Women of Colour. 
 - [Family Services Toronto](http://www.familyservicetoronto.org/programs.html) - Sliding scale based on income. LGBTQ* focus. 
 - [Planned Parenthood Toronto](http://www.ppt.on.ca) - Free, but only accept youth under age 29. 
-- [Sherbourne Health Centre] (http://sherbourne.on.ca/mental-health-services/counselling-services/) - Free. LGBTQ* and immigrant focus.
+- [Sherbourne Health Centre](http://sherbourne.on.ca/mental-health-services/counselling-services/) - Free. LGBTQ* and immigrant focus.
 
 ## 🚑 In Crisis?
 Most people think of a crisis as a situation where you need to call the ambulance, immediately. A crisis does not always look like that - it can be crying uncontrollably for days, constant anxiety attacks, suicidal thoughts, etc.
