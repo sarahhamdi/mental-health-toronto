@@ -1,4 +1,4 @@
-# Mental Health Resources in Toronto
+# QPOC & WOC Mental Health Resources in Toronto
 
 I started this because I get questions about therapy about 2-3 times a year. These recommendations are mostly for therapy for and by Queer People & Women of Colour in Toronto. YMMV. Please contribute or make a PR if you have any recommendations! 
 
@@ -7,7 +7,7 @@ I started this because I get questions about therapy about 2-3 times a year. The
 
 - **Psychologist** - Someone who practices psychology. A member of the College of Registered Psychotherapists of Ontario (CRPO)
 
-- **Registered Social Worker (RSW) **- Someone with a Masters of Social Work (MSW) and registered with the Ontario College of Social Workers and Social Service Workers.
+- **Registered Social Worker (RSW)** - Someone with a Masters of Social Work (MSW) and registered with the Ontario College of Social Workers and Social Service Workers.
 
 - **Counsellor** - Someone who may or may not be an RSW.
 
@@ -63,9 +63,8 @@ Dr Erin Mcdonough is a psychiatrist that also does psychotherapy, with a focus o
 ### Psychotherapy Students 
 - [TIRP Referral Service](http://www.tirp.ca/therapy.html) - Call **Pat DeYoung (416-465-4558)** at TIRP and describe your needs. She can match you with a trainee therapist for $25, or a recent grad at $40-80.
 
-
-###Community Health Centres 
-CHCs have very affordable and population-specific therapy services but they also have very long waiting lists. They are not to be relied on during a time of crisis, unless it is physical.
+### Community Health Centres 
+CHCs have very affordable and population-specific therapy services but they also have very long waiting lists (3-9 months). They are not to be relied on during a time of crisis, unless it is physical.
 
 - [Women's Health in Women's Hands](http://www.whiwh.com/programs_and_services/) - Free, but only take Women of Colour. 
 - [Family Services Toronto](http://www.familyservicetoronto.org/programs.html) - Sliding scale based on income. 
