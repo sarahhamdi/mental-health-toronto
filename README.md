@@ -16,7 +16,7 @@ I started this because I get questions about therapy about 2-3 times a year. The
 
 
 ## 💸 Paying for Therapy in Ontario
-**OHIP** will only cover **psychiatrists** who also practice psychology (see: Vaidya and Mcdonough below). They are rare. If you do find a psychiatrist like that, you will likely need **a referral **from a doctor (physician). Take the name of the person you want treatment from, and ask your doctor to make a referral for that specific person.
+**OHIP** will only cover **psychiatrists** who also practice psychology (see: Vaidya and Mcdonough below). They are rare. If you do find a psychiatrist like that, you will likely need **a referral** from a doctor (physician). Take the name of the person you want treatment from, and ask your doctor to make a referral for that specific person.
 
 **Private insurance** may only cover certain types of therapists, for example, psychologists but not social workers (e.g. they will cover Malik-Noor but not Takeda, below). It's best to check with your insurance company before you contact someone, so you're not out hundreds of dollars.
 
@@ -24,7 +24,7 @@ I started this because I get questions about therapy about 2-3 times a year. The
 
 - Some therapists have a **sliding scale**! It means you pay be able to pay what you can, within a range. You should ask.
 
-- **Community health centres** and **psychotherapy students **are more affordable, and sometimes free.
+- **Community health centres** and **psychotherapy students** are more affordable, and sometimes free.
 
 
 ## 🤐 Indvidual Therapists
@@ -75,8 +75,8 @@ Most people think of a crisis as a situation where you need to call the ambulanc
 
 - If you are in crisis but can wait for people to get back to you, **tell the provider you are contacting that you are in crisis**. Sometimes this can speed up communication with them, or push you higher up the waiting list.
 
-- If you are in crisis and cannot wait, you can call the **Distress Centre **at **416-408-HELP (4357)** or access any of [these specific crisis lines](http://toronto.cmha.ca/mental-health/find-help/are-you-in-crisis/). 
+- If you are in crisis and cannot wait, you can call the **Distress Centre** at **416-408-HELP (4357)** or access any of [these specific crisis lines](http://toronto.cmha.ca/mental-health/find-help/are-you-in-crisis/). 
 
 - If you need immediate help can **walk into CAMH's emergency** at  250 College Street, Toronto, Ontario. Check out [these threads on Reddit](https://www.reddit.com/r/toronto/search?q=camh&restrict_sr=on) for people's experience doing this, if you want more insight.
 
-- Obviously, call 911 if you need an ambulance, firefighter, or police help.
+- Call 911 if you need an ambulance, firefighter, or police help.
