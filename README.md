@@ -71,6 +71,7 @@ CHCs have very affordable and population-specific therapy services but they also
 - [Planned Parenthood Toronto](http://www.ppt.on.ca) - Free, but only accept youth under age 29. 
 - [Sherbourne Health Centre](http://sherbourne.on.ca/mental-health-services/counselling-services/) - Free. LGBTQ* and immigrant focus.
 - [the519](http://www.the519.org/programs/community-counselling) - Free, up to 6 sessions. LGBTQ* focus.
+- [Access Alliance](http://accessalliance.ca/programs-services/primary-health-care/counselling-therapy/) - Free, LGBTQ* positive and immigrant focus. Translators available.
 
 ## 🚑 In Crisis?
 Most people think of a crisis as a situation where you need to call the ambulance, immediately. A crisis does not always look like that - it can be crying uncontrollably for days, constant anxiety attacks, suicidal thoughts, etc.
