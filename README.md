@@ -75,6 +75,9 @@ Dr Erin Mcdonough is a psychiatrist that also does psychotherapy, with a focus o
 ### Psychotherapy Students 
 - [TIRP Referral Service](http://www.tirp.ca/therapy.html) - Call **Pat DeYoung (416-465-4558)** at TIRP and describe your needs. She can match you with a trainee therapist for $25, or a recent grad at $40-80.
 
+-[The Living Institute Student Clinic](https://www.livinginstitute.org/living-institute-student-clinic) - The Living Institute Student Clinic will connect you with an intern therapist at rates negotiated by you and the student. The initial consultation is provided by a senior psychotherapist at no charge. Call **416-515-0404** and leave a confidential message containing your name and phone, or email Caroline Mardon, Clinical Director at [caroline@livinginstitute.org](mailto:caroline@livinginstitute.org).
+
+
 ### Community Health Centres 
 CHCs have very affordable and population-specific therapy services but they also have very long waiting lists (3-9 months). They are not to be relied on during a time of crisis, unless it is physical.
 
